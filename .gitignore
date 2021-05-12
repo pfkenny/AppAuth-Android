@@ -6,3 +6,9 @@ library/build
 .idea/*
 *.iml
 appauth.keystore
+app/.idea/gradle.xml
+app/.idea/misc.xml
+app/.idea/modules.xml
+app/.idea/runConfigurations.xml
+app/.idea/vcs.xml
+app/local.properties
