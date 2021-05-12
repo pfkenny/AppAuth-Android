@@ -1,9 +1,9 @@
 {
-  "client_id": "connectedlife2",
+  "client_id": "tenantname",
   "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "end_session_redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "authorization_scope": "document openid",
-  "discovery_uri": "https://emea-saas-dobs-keycloak.identityx-cloud.com/auth/realms/connectedlife2/.well-known/openid-configuration",
+  "discovery_uri": "https://emea-saas-dobs-keycloak.identityx-cloud.com/auth/realms/tenantname/.well-known/openid-configuration",
   "authorization_endpoint_uri": "",
   "token_endpoint_uri": "",
   "registration_endpoint_uri": "",
